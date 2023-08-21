@@ -7,5 +7,5 @@ This research process involves several stages, including collecting image data f
 Test results using the WID dataset reveal that the InceptionV3 model achieves an accuracy of 0.9546, precision of 0.8906, recall of 0.8897, and F1-score of 0.8901. These findings indicate that the InceptionV3 model performs the best within the dataset, despite being tested on 9 classes. Furthermore, testing is conducted using the WCD dataset, demonstrating that the InceptionV3 model is the best-performing model in that dataset with an accuracy of 0.9351, precision of 0.9636, recall of 0.9234, and F1-score of 0.9430. These results highlight that the InceptionV3 model yields the best performance in the dataset consisting of 2 classes.
 
 Dataset
-- [dataset 1](https://github.com/garythung/trashnet) and (https://github.com/AgaMiko/waste-datasets-review)
+- [dataset 1](https://github.com/garythung/trashnet) and [dataset 1](https://github.com/AgaMiko/waste-datasets-review)
 - [dataset 2](https://www.kaggle.com/datasets/techsash/waste-classification-data)
