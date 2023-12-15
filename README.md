@@ -9,3 +9,6 @@ Test results using the WID dataset reveal that the InceptionV3 model achieves an
 Dataset
 - [dataset 1](https://github.com/garythung/trashnet) and [dataset 1](https://github.com/AgaMiko/waste-datasets-review)
 - [dataset 2](https://www.kaggle.com/datasets/techsash/waste-classification-data)
+
+This Model acctualy develop with fast API and develop with streamlit
+https://wasteclassification.streamlit.app/
